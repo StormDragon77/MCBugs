@@ -113,5 +113,5 @@ https://bugs.mojang.com/browse/MC-161416 - Inconsistent zombie villager textures
 https://bugs.mojang.com/browse/MC-243777 - Some legs of cats use wrong bottom texture colors for feet\*
 
 To do:
-Alphabetize list
-Change everything into hyperlinks
+- Alphabetize list
+- Change everything into hyperlinks
