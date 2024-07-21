@@ -111,3 +111,7 @@ https://bugs.mojang.com/browse/MC-264125 - All Hanging Signs item texture have i
 https://bugs.mojang.com/browse/MC-264613 - Furnace, TNT and command block minecart items have miscolored border\*<br>
 https://bugs.mojang.com/browse/MC-161416 - Inconsistent zombie villager textures\*<br>
 https://bugs.mojang.com/browse/MC-243777 - Some legs of cats use wrong bottom texture colors for feet\*
+
+To do:
+Alphabetize list
+Change everything into hyperlinks
