@@ -7,7 +7,7 @@
 [MC-213797](https://bugs.mojang.com/browse/MC-213797) - Large dripleaf stem goes through itself\*<br>
 [MC-178125](https://bugs.mojang.com/browse/MC-178125) - Top texture of gilded blackstone is the same as the side textures\*<br>
 [MC-181546](https://bugs.mojang.com/browse/MC-181546) - Arrow texture is incorrect\*<br>
-[MC-94874](https://bugs.mojang.com/browse/MC-94874) - Acacia sapling texture doesn't match acacia log color\*<br>
+[MC-94874](https://bugs.mojang.com/browse/MC-94874) -- Acacia sapling texture doesn't match acacia log color\*<br>
 [MC-202839](https://bugs.mojang.com/browse/MC-202839) - Netherite armor coloring inconsistency\*\*\*<br>
 [MC-199231](https://bugs.mojang.com/browse/MC-199231) - Observer top texture has not been fully updated with the texture update\*<br>
 [MC-236052](https://bugs.mojang.com/browse/MC-236052) - Z-fighting can be seen around the necks of small armor stands\*\*<br>
@@ -74,7 +74,7 @@
 [MC-264345](https://bugs.mojang.com/browse/MC-264345) - Vindicator's sleeves are inconsistent\*<br>
 [MC-261648](https://bugs.mojang.com/browse/MC-261648) - Black (Tuxedo) Cat's texture has absolutely no shading\*\*\*<br>
 [MC-130026](https://bugs.mojang.com/browse/MC-130026) - Parts of the pufferfish entity UV are wrong\*\*\*<br>
-[MC-23035](https://bugs.mojang.com/browse/MC-23035) - Nether brick and normal brick textures are not aligned\*\*\*<br>
+[MC-23035](https://bugs.mojang.com/browse/MC-23035) -- Nether brick and normal brick textures are not aligned\*\*\*<br>
 [MC-187475](https://bugs.mojang.com/browse/MC-187475) - Pixels of fire are slightly taller than they are wide\*<br>
 [MC-178117](https://bugs.mojang.com/browse/MC-178117) - Tiny inconsistency with quartz block/bricks textures\*<br>
 [MC-229831](https://bugs.mojang.com/browse/MC-229831) - Enchanting Table's GUI has three pixels in the top-right corner that shouldn't be there\*<br>
@@ -92,15 +92,15 @@
 [MC-192420](https://bugs.mojang.com/browse/MC-192420) - Iron bars Z-fight on the bottom and top\*\*<br>
 [MC-123221](https://bugs.mojang.com/browse/MC-123221) - Item frames / glow item frames placed on the ground z-fight with pressure plates / rails / carpets\*\*<br>
 [MC-254069](https://bugs.mojang.com/browse/MC-254069) - Z-fighting can be seen at some distances when fire is present on the sides of blocks\*\*<br>
-[MC-7855](https://bugs.mojang.com/browse/MC-7855) - Enchantment table book experiences Z-Fighting when looked at from far away\*\*<br>
+[MC-7855](https://bugs.mojang.com/browse/MC-7855) --- Enchantment table book experiences Z-Fighting when looked at from far away\*\*<br>
 [MC-233983](https://bugs.mojang.com/browse/MC-233983) - Maps in item frames and glow item frames display Z-fighting when viewed from a distance\*\*<br>
 [MC-161583](https://bugs.mojang.com/browse/MC-161583) - Putting an item frame with an anvil on the item frame on the same block as where a torch is causes Z-Fighting\*\*<br>
 [MC-157482](https://bugs.mojang.com/browse/MC-157482) - Lead knot texture z-fighting with bottom connecting board of a fence\*\*<br>
 [MC-199048](https://bugs.mojang.com/browse/MC-199048) - Z-fighting in boats next to blocks with a certain height difference\*\*<br>
 [MC-226087](https://bugs.mojang.com/browse/MC-226087) - Summoning two shulker next to each other will cause z-fighting\*\*<br>
-[MC-97902](https://bugs.mojang.com/browse/MC-97902) - Severe z-fighting inside snow golem\*\*<br>
+[MC-97902](https://bugs.mojang.com/browse/MC-97902) -- Severe z-fighting inside snow golem\*\*<br>
 [MC-205287](https://bugs.mojang.com/browse/MC-205287) - Hand texture on steve, alex & zombie villager are inconsistent with zombie & husk hands\*<br>
-[MC-90566](https://bugs.mojang.com/browse/MC-90566) - The plants of sunflowers don't connect to their stems\*<br>
+[MC-90566](https://bugs.mojang.com/browse/MC-90566) -- The plants of sunflowers don't connect to their stems\*<br>
 [MC-260894](https://bugs.mojang.com/browse/MC-260894) - The colour of map_background is different to other map textures\*<br>
 [MC-260888](https://bugs.mojang.com/browse/MC-260888) - Two black pixels in the Knowledge Book in the recipe button\*<br>
 [MC-178067](https://bugs.mojang.com/browse/MC-178067) - Rabbit stew texture is too low\*<br>
