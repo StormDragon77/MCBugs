@@ -113,7 +113,18 @@
 [MC-243777](https://bugs.mojang.com/browse/MC-243777) - Some legs of cats use wrong bottom texture colors for feet\*<br>
 [MC-236476](https://bugs.mojang.com/browse/MC-236476) - Texture planes of melon and pumpkin stems are wider than those of other cross models\*<br>
 [MC-242002](https://bugs.mojang.com/browse/MC-242002) - Stained glass pane edge texture is still based on the outdated glass pane edge texture\*<br>
-[MC-256073](https://bugs.mojang.com/browse/MC-256073) - Miscolored pixel in tab_inventory.png\*
+[MC-256073](https://bugs.mojang.com/browse/MC-256073) - Miscolored pixel in tab_inventory.png\*<br>
+[MC-236476](https://bugs.mojang.com/browse/MC-236476) - Texture planes of melon and pumpkin stems are wider than those of other cross models\*<br>
+[MC-242002](https://bugs.mojang.com/browse/MC-242002) - Stained glass pane edge texture is still based on the outdated glass pane edge texture\*<br>
+[MC-256073](https://bugs.mojang.com/browse/MC-256073) - Miscolored pixel in tab_inventory.png\*<br>
+[MC-177452](https://bugs.mojang.com/browse/MC-177452) - Unneeded faces inside repeater models\*<br>
+[MC-177453](https://bugs.mojang.com/browse/MC-177453) - Unneeded faces inside comparator models\*<br>
+[MC-248206](https://bugs.mojang.com/browse/MC-248206) - Z-fighting between blocks inside invisible item frames and buttons\*<br>
+[MC-262687](https://bugs.mojang.com/browse/MC-262687) - Banners z-fight with the edges of item frames\*<br>
+[MC-195694](https://bugs.mojang.com/browse/MC-195694) - Small Z-Fighting on saddled Skeleton Horse\*<br>
+[MC-264346](https://bugs.mojang.com/browse/MC-264346) - Diamond boots bottom is different from iron and gold\*<br>
+[MC-250273](https://bugs.mojang.com/browse/MC-250273) - Z-fighting can be seen on cows, mooshrooms, and pigs when their legs intersect their bodies\*<br>
+[MC-263916](https://bugs.mojang.com/browse/MC-263916) - Tool Textures are shaded upside down in-hand\*
 
 To do:
 - Alphabetize list
